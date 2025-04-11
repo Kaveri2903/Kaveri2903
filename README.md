@@ -12,10 +12,6 @@ I explore data to find patterns, insights, and answers. Whether it’s a spreads
   - Build reports and dashboards that make sense
   - Ask the right questions (and find the answers)
 
-### 🌟 Projects I’m Proud Of
-- 📉 [Churn Analysis with SQL & Power BI](#)
-- 🧼 [Data Cleaning Workflow in Python](#)
-- 📦 [E-commerce Product Insights](#)
 
 ### 🤝 Let’s Connect
 If you like data or need help making sense of it, I’d love to chat!
