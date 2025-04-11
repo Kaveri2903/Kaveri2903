@@ -5,7 +5,7 @@
 I explore data to find patterns, insights, and answers. Whether it’s a spreadsheet or a SQL database, I enjoy diving into the numbers and turning them into something meaningful and useful.
 
 ### 🛠️ What I Work With
-- **Languages & Tools:** Python (Pandas, Matplotlib), SQL, Excel, Power BI, Tableau
+- **Languages & Tools:** Python, SQL, Excel, Power BI, Tableau
 - **What I Do Best:**
   - Clean and organize messy data
   - Analyze trends and behavior
